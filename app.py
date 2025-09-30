@@ -28,7 +28,7 @@ generos = {
 }
 
 st.sidebar.title('Ritmia do Som')
-st.sidebar.image('logo app.png')
+st.sidebar.image('Logo app.png')
 
 genero = st.sidebar.selectbox('Escolha um genero musical',generos.keys())
 
@@ -91,4 +91,5 @@ MC Don Juan tornou-se um dos principais representantes do funk paulista no ano d
     elif artista == 'Mc Guime':
         st.markdown("""Nascido em Osasco, filho de um ajudante de eletricista, Paulo Eduardo Dantas e de Maria Cristina Amaral Dantas, para ajudar o pai com as despesas da casa, Guilherme chegou a trabalhar dos 13 aos 16 em uma quitanda, idade com que começou a fazer suas primeiras músicas.[2] Considerado o maior nome do funk ostentação,[9] atualmente Guimê realiza cerca de três ou quatro shows por noite, faturando de 25 a 30 mil reais em cada noite e 500 mil por mês.[2][3][4][10]
 O luxo descrito nas letras não corresponde à história de vida de Guimê, em parte, anseio do garoto humilde. Por outro lado, o funkeiro descreve novas cenas de sua vida que lembram os luxuosos clipes de rap americano dos quais é fã. Foi criado a partir dos seis meses só pelo pai, eletricista de origem humilde, a quem chamava de mãe. Cresceu em Osasco enquanto se tornava obstinado com o sucesso.[10]""")
+
               
